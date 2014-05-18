@@ -107,6 +107,8 @@ $(function () {
     }    
     </script>
   </head>
-</html>
-<div id="WebGL-output"></div>
+  <body>
+  <div id="WebGL-output"></div>
 <div id="Stats-output"></div>
+</body>
+</html>
